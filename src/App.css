@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap");
+
+* {
+  padding: 0px !important;
+  margin: 0px !important;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+}
+
+html{
+  
+  overflow-x: hidden;
+}
+
+li{
+  list-style: none;
+}
+
+.Editrofile-box{
+  height: 100vh !important;
+  width: 100%;
+  border: 1px solid red;
+}
